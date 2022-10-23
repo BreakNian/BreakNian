@@ -32,3 +32,4 @@ A self-taught student with a curiosity for programming.
 - Has posted articles in major security communities.
 - Know how to reverse binary.
 - Have CTF experience.
+- TK ee
