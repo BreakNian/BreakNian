@@ -6,6 +6,8 @@
 
 A self-taught student with a curiosity for programming.
 
+- Telegram： [NianBroken](https://t.me/Nianbroken)
+
 - QQ： [2971802058](https://qm.qq.com/cgi-bin/qm/qr?k=qC1PE50EbPizyX_9NHsNxQSWawteFoRD)
 
 - WeChat： [NianBroken](https://cdn.jsdelivr.net/gh/NianBroken/NianBroken/WeChat.png)
