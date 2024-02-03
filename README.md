@@ -14,7 +14,7 @@ A self-taught student with a curiosity for programming.
 
 - Gmail： [suinian666@gmail.com](mailto:suinian666@gmail.com)
 
-- Give me money： [money receiving QR code](https://www.nianbroken.top/money_receiving_QR_code)
+- Give me money： [Payment Code](https://www.nianbroken.top/money_receiving_QR_code)
 ------
 ## Requirements for future girlfriend
 
