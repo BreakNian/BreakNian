@@ -2,7 +2,7 @@
 
 # I'm NianBroken
 
-<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=nianbroken&include_all_commits=true&count_private=true&show_icons=true" alt="nianbroken" />
+<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=NianBroken&include_all_commits=true&rank_icon=github&hide_title=true&" alt="nianbroken" />
 
 A self-taught student with a curiosity for programming.
 
