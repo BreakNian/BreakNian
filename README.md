@@ -36,4 +36,4 @@ A college student who is self-taught.
 - Experience in Capture The Flag (CTF) competitions.
 - Does not keep long fingernails.
 - Familiar with methods of rooting phones or other devices.
-- Has a "tickle" sexual preference and "ee" attribute.
+- Has a "tk" xp and "ee" attribute.
